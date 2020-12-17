@@ -1,0 +1,240 @@
+/* CSS Styling for travel.html */
+
+.container-home {
+	background-image: url('../images/dubai.jpg');
+	background-repeat: no-repeat;
+	background-position: top;
+	background-size: cover;
+	height: 770px;
+}
+
+.nav-item {
+	padding-top: 7px;
+}
+
+.nav-item a {
+	color: white;
+	font-size: 18px;
+	padding-left: 50px;
+}
+
+.nav-link:hover {
+	color: #8AA4AB;
+}
+
+.container-headline {
+	margin-top: 68px;
+}
+
+#home-sec {
+	text-align: center;
+}
+
+#main-headline {
+	width: 700px;
+	padding-top: 70px;
+	margin: 0 auto;
+	font-size: 90px;
+	color: #8aa4ab;
+	font-family: 'Oswald', sans-serif;
+}
+
+#start-button {
+	width: 450px;
+	margin: 0 auto;
+	padding-top: 30px;
+	margin-top: 55px;
+}
+
+#link-color {
+	border-style: solid;
+	border-width: 3.5px;
+	border-color: #8aa4ab;
+	color: #8aa4ab;
+	padding: 7px;
+	font-size: 22px;
+	border-radius: 2.75px;
+	font-family: 'Work Sans', sans-serif;
+	text-decoration: none;
+}
+
+#link-color:hover {
+	cursor: pointer;
+	background-color: #8aa4ab;
+	color: white;
+}
+
+
+/* CSS FOR ABOUT SECTION, EVERY CITY HAS A STORY */
+
+.section-about {
+	background-color: white;
+}
+
+.about-container {
+	text-align: center;
+	padding-top: 110px;
+	padding-bottom: 80px;
+	width: 800px;
+}
+
+h2 {
+	font-family: 'Oswald', sans-serif;
+	font-size: 40px;
+	color: #8AA4AB;
+}
+
+.activities-style {
+	color: white;
+}
+
+.content-filler {
+	text-align: justify;
+	font-size: 20px;
+	padding-top: 10px;
+}
+
+
+/* CSS FOR ACTIVITIES SECTION */
+
+#activity-box1,
+#activity-box2 {
+	background-color: #A3B0B6;
+}
+
+.activity1,
+.activity2 {
+	text-align: center;
+	position: relative;
+	top: 20%;
+	width: 500px;
+	margin: 0 auto;
+}
+
+
+/* CSS FOR CONTACT US BANNER  */
+
+.contact-banner {
+	text-align: center;
+	padding-top: 70px;
+	padding-bottom: 70px;
+	width: 100%;
+}
+
+
+/* CSS FOR CONTACT FORM SECTION */
+
+.section-contactform {
+	background-color: #A3B0B6;
+}
+
+.contactform-container {
+	text-align: center;
+	padding-top: 50px;
+	padding-bottom: 50px;
+}
+
+#contact-title {
+	font-family: 'Montserrat', sans-serif;
+	color: white;
+	font-size: 36px;
+	font-weight: 500;
+}
+
+#form-mod {
+	margin-top: -10px;
+	margin-bottom: 35px;
+}
+
+#contact-box {
+	padding: 10px;
+	width: 450px;
+}
+
+#message-box {
+	padding: 10px;
+	width: 450px;
+	height: 150px;
+}
+
+label {
+	display: block;
+	padding: 7px;
+	font-size: 18px;
+	font-family: 'Lora', serif;
+	color: #4b4a46;
+}
+
+#button-contact {
+	margin: 0 auto;
+	width: 118px;
+	padding: 10px;
+	border-color: white;
+	border-style: solid;
+	text-align: center;
+	border-radius: 2px;
+}
+
+#contact-button {
+	font-size: 16px;
+	text-decoration: none;
+	color: white;
+	font-family: 'Montserrat', sans-serif;
+	letter-spacing: 1.5px;
+}
+
+#button-contact:hover {
+	opacity: 90%;
+}
+
+
+/* CSS for Thank You Banner */
+
+.thanku-sec {
+	background-color: #FFFFFF;
+}
+
+.visiting-banner {
+	text-align: center;
+	padding-top: 35px;
+	padding-bottom: 35px;
+	width: 100%;
+}
+
+#visiting-font {
+	font-family: 'Oswald', sans-serif;
+	font-size: 40px;
+	color: #A3B0B6;
+}
+
+#kitty-logo	{
+	color: #A3B0B6;
+}
+
+#kitty-logo:hover {
+	color: black;
+}
+
+
+/* CSS FOR FOOTER */
+
+.page-footer {
+	background-color: black;
+	color: white;
+}
+
+
+@media only screen and (max-width: 600px) {
+
+	#main-headline {
+		font-size: 64px;
+	}
+
+	#home-sec {
+		text-align: left;
+	}
+
+	#dubai-headline {
+		width: 250px;
+	}
+}

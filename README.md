@@ -1,5 +1,5 @@
 # mock-travel-website
-This project is for an assignment I'm doing with TTS (Tech Talent South) Full Immersion Foundational Java Course. I will be creating a very basic mock travel site (I have Dubai as my inspiration) with some Bootstrap, Java, and SpringBoot. My travel site does not look like a regular travel site visitors would go to so just keep that in mind. It's a fake site lol. I was inspired by some WordPress templates I used to work with. This is a 1 page website. View the page here: https://mock-travel-website.herokuapp.com/
+This project is for an assignment I'm doing with TTS (Tech Talent South) Full Immersion Foundational Java Course. I will be creating a very basic mock travel site (I have Dubai as my inspiration) with some Bootstrap, Java, and Spring Boot. My travel site does not look like a regular travel site visitors would go to so just keep that in mind. It's a fake site lol. I was inspired by some WordPress templates I used to work with. This is a 1 page website. View the page here: https://mock-travel-website.herokuapp.com/
 
 ## Screenshots
 ![homepage](https://user-images.githubusercontent.com/66345751/97755156-0dfa6c00-1acf-11eb-8188-c6923a092460.JPG)
